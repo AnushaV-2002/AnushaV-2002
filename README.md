@@ -6,7 +6,7 @@
 
 <h3>Connect Me On</h3>
 📌LinkedIn- https://www.linkedin.com/in/anusha-viswanathan-b370721a7<br>
-📌E-Mail- anushaviswanathan55610@ieee.org
+
 
 <!---
 AnushaV-2002/AnushaV-2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
