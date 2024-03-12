@@ -1,11 +1,11 @@
-<h1>Hi👋 I’m Anusha V</h1>
-<h3>Iam a Web Development enthusiastic</h3>
-🏫 I'm Currently completed my Bachelors's Degree in Information Technology from Jeppiaar Engineering College<br> 
-🚀My Goal is to become a Full Stack Web Developer(MERN Stack)<br>
-<br>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamJldW5xZHZvc2E1bWk1OW5sbGxjaWlveWZkOXQxbmh2YnQ1Mmt2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="350" height=200"/>
+</div>
 
-<h3>Connect Me On</h3>
-📌LinkedIn- https://www.linkedin.com/in/anusha-viswanathan-b370721a7<br>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/anushaviswanathan/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a> <a href="https://anushaviswanathan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Gray?style=for-the-badge" alt="Portfolio Badge"/></a>
+</div>
+
 
 
 <!---
