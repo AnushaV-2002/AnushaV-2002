@@ -7,7 +7,7 @@
 </div>
 
 <div>
-  <h2 align="center">Hi 👋 I'm Anusha</h2>
+  <h1 align="center">Hi 👋 I'm Anusha</h1>
   
 ## **👩‍💻 About Me**
   
@@ -22,6 +22,14 @@
 
 </div>
 
+## :hammer_and_wrench: **Languages and Tools:**
+
+### **Frontend:**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60px" height="60px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="60px" height="60px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60px" height="60px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="60px" height="60px" />
+          
+          
+          
+          
 <!---
 AnushaV-2002/AnushaV-2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
