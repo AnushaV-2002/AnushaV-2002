@@ -22,14 +22,38 @@
 
 </div>
 
-## :hammer_and_wrench: **Languages and Tools:**
+## :hammer_and_wrench: **Languages and Tools**
 
 ### **Frontend:**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60px" height="60px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="60px" height="60px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60px" height="60px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="60px" height="60px" />
-          
-          
-          
-          
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+### **Backend:**
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### **Database:**
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+### **Version Control:**
+<p>
+<img src="https://skillicons.dev/icons?i=git,github" />
+</p>
+
+### **:fire:My Stats:**
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnushaV-2002&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnushaV-2002&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## **:star:Connect with me:**
+<p>
+  <a href="https://www.linkedin.com/in/anushaviswanathan/"><img src="https://skillicons.dev/icons?i=linkedin" /></a> <a href="mailto:anushaviswanathan@outlook.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
+
 <!---
 AnushaV-2002/AnushaV-2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
