@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/anushaviswanathan/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a> <a href="https://anushaviswanathan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Gray?style=for-the-badge" alt="Portfolio Badge"/></a>
+  <a href="https://www.linkedin.com/in/anushaviswanathan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a> <a href="https://anushaviswanathan.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Gray?style=for-the-badge" alt="Portfolio Badge"/></a>
 </div>
 
 <div>
